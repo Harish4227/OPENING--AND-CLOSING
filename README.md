@@ -1,6 +1,6 @@
 # EXP-10-OPENING--AND-CLOSING
-### Name - KISHORE S M
-### Register Number - 212224230131
+### Name - Harish D
+### Register Number - 212224220034
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
